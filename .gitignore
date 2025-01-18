@@ -1,0 +1,8 @@
+# Ignore the detectron2_repo directory
+detectron2_repo/
+
+# Ignore model weights file
+model_final.pth
+
+# Ignore macOS .DS_Store files
+.DS_Store
